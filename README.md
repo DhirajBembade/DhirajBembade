@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@dhiraj_bembade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dhiraj_bembade" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhiraj-bembade-141802232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiraj-bembade-141802232" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhiraj-bembade-141802232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhiraj-bembade" height="30" width="40" /></a>
 <a href="https://kaggle.com/dhirajbembade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhirajbembade" height="30" width="40" /></a>
 <a href="https://instagram.com/dhiraj.bembade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhiraj.bembade" height="30" width="40" /></a>
 </p>
