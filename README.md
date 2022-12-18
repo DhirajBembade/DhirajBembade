@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning & exploring programming in **Python,Sql etc**
 
-- 💬 Ask me about **Python,Sql,ML & Deep learning ,Coding stuff**
+- 💬 Ask me about **Python, Sql, ML & Deep learning, Coding stuff**
 
 - 📫 How to reach me **dhiraj.bembade@gmail.com**
 
