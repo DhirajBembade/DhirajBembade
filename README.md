@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dhiraj.bembade@gmail.com**
 
-- ⚡ Fun fact **I am funny 😊**
+
 
 ## Things I am passionate about
 
