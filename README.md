@@ -41,6 +41,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajbembade&show_icons=true&locale=en&layout=compact" alt="dhirajbembade" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhirajbembade&show_icons=true&locale=en" alt="dhirajbembade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajbembade&" alt="dhirajbembade" /></p>
+
+## **Visitor's Count:**
+![Visitor Count](https://profile-counter.glitch.me/dhirajbembade/count.svg)
