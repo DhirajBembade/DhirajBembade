@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajbembade&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajbembade" /> </p>
 
-- 🌱 I’m currently learning & exploring programming in **MLOps, Recommender System, Advance NLP(Chatbot), PySpark and Databricks**
+- 🌱 I’m currently learning & exploring programming in **MLOps, AWS, Recommender System, Advance NLP(Chatbot), Pytorch, BERT and Databricks**
 
 - 🔭 I’m currently working on **Data Science, Machine Learning projects.**
 
-- 💬 Ask me about **Python, Sql, Statistics, ML & Deep learning, Coding stuff.**
+- 💬 Ask me about **Python, Sql, Statistics, ML, NLP & Deep learning, Coding stuff.**
 
 - 📫 How to reach me **dhiraj.bembade@gmail.com**
 
