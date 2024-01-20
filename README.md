@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dhiraj.bembade@gmail.com**
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha9/main/techstack.gif" width="360px"/>
   
 
 ## Things I am passionate about
