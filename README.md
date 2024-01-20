@@ -42,14 +42,24 @@
 
 
 ### 🧰 Frameworks and libraries
+![Flask](https://img.shields.io/badge/Flask-%23F7931E.svg?style=plastic&logo=flask&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%230C55A5.svg?style=plastic&logo=beautiful-soup&logoColor=%white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23D00000.svg?style=plastic&logo=fastapi&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23150458.svg?style=plastic&logo=nltk&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-%230C55A5.svg?style=plastic&logo=transformers&logoColor=%23FFD700)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23013243.svg?style=plastic&logo=transformers&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23150458.svg?style=plastic&logo=hugging-face&logoColor=white)
+![RoBERTa](https://img.shields.io/badge/RoBERTa-%23F7931E.svg?style=plastic&logo=transformers&logoColor=%23FFD700)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-%23113243.svg?style=plastic&logo=transformers&logoColor=%23FFD700)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajbembade&show_icons=true&locale=en&layout=compact" alt="dhirajbembade" /></p>
 
