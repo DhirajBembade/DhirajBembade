@@ -57,8 +57,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-%23013243.svg?style=plastic&logo=transformers&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23150458.svg?style=plastic&logo=hugging-face&logoColor=white)
-![RoBERTa](https://img.shields.io/badge/RoBERTa-%23F7931E.svg?style=plastic&logo=transformers&logoColor=%23FFD700)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-%23113243.svg?style=plastic&logo=transformers&logoColor=%23FFD700)
+![AWS](https://img.shields.io/badge/AWS-%23EE4C2C.svg?style=plastic&logo=amazon-aws&logoColor=white)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajbembade&show_icons=true&locale=en&layout=compact" alt="dhirajbembade" /></p>
