@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Bembade</h1>
-<h3 align="center">I'm Data Science & Machine Learning Enthusiastic</h3>
+<h3 align="center">I'm Data Science & AI Enthusiastic</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajbembade&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajbembade" /> </p>
 
-- 🌱 I’m currently learning & exploring programming in **MLOps, AWS, Recommender System, Advance NLP(Chatbot), Pytorch, BERT and Databricks**
+- 🌱 I’m currently learning & exploring programming in **MLOps, LLMs, GenAI, Transformers, BERT, AWS, GCP,  Recommender System, Advance NLP(Chatbot), Tf-Keras, Pytorch and Databricks**
 
-- 🔭 I’m currently working on **Data Science, Machine Learning projects.**
+- 🔭 I’m currently working on **Data Science, Machine Learning -NLP projects.**
 
 - 💬 Ask me about **Python, Sql, Statistics, ML, NLP & Deep learning, Coding stuff.**
 
