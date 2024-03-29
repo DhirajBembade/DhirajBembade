@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajbembade&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajbembade" /> </p>
 
-- 🌱 I’m currently learning & exploring programming in **MLOps, LLMs, GenAI, Langchain, Langsmith, Transformers, BERT, GPT, T5, AWS, Amazon Bedrock, GCP, VectorDB, Recommender System, Advance NLP(Chatbot), and Databricks**
+- 🌱 I’m currently learning & exploring programming in **MLOps, LLMs, GenAI, Langchain-Langsmith, Transformers, BERT, GPT, T5, AWS, Amazon Bedrock, GCP, VectorDB, Recommender System, Advance NLP(Chatbot), and Databricks**
 
 - 🔭 I’m currently working on **Data Science, Machine Learning -NLP projects.**
 
