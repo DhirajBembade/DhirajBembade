@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajbembade&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajbembade" /> </p>
 
-- 🌱 I’m currently learning & exploring programming in **MLOps, LLMs, GenAI, Transformers, BERT, AWS, GCP, Recommender System, Advance NLP(Chatbot), and Databricks**
+- 🌱 I’m currently learning & exploring programming in **MLOps, LLMs, GenAI, Langchain, Langsmith, Transformers, BERT, GPT, T5, AWS, Amazon Bedrock, GCP, VectorDB, Recommender System, Advance NLP(Chatbot), and Databricks**
 
 - 🔭 I’m currently working on **Data Science, Machine Learning -NLP projects.**
 
-- 💬 Ask me about **Python, Sql, Statistics, ML, NLP & Deep learning, Coding stuff.**
+- 💬 Ask me about **Python, Sql, Statistics, ML, NLP & Deep learning, Transfer Learning, Coding stuff.**
 
 - 📫 How to reach me **dhiraj.bembade@gmail.com**
 
