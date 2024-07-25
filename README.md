@@ -13,7 +13,6 @@
 -  🎓📚 MSc Data Science - SPPU, Pune 
   
 - 📫 How to reach me **dhiraj.bembade@gmail.com**
-  
 
 <img align="right" alt="Coding GIF" src="https://github.com/DhirajBembade/GIF/raw/main/Coding.gif" width="360px"/>
 
