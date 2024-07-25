@@ -6,10 +6,12 @@
 
 - 🌱 I’m currently learning & exploring programming in **MLOps, LLMs, GenAI, Langchain-Langsmith, Transformers, BERT, Huggingface, AWS(Amazon Bedrock), VectorDB, Advance NLP(NER, Chatbot), and Databricks**
 
-- 🔭 I’m currently working on **ADAS Technologies & Computer Vision Task** also worked on **Data Science, Machine Learning -NLP projects(Chatbot, T5, LLMs etc), Computer Vision(VGG, ResNet, GANs LIMs), APIs(FastAPI, Streamlit)**
+- 🔭 I’m currently working on **ADAS Technologies 🚘  & Computer Vision Task**, experience in **Data Science, Machine Learning -NLP projects(Chatbot, T5, LLMs etc), Computer Vision(VGG, ResNet, GANs LIMs), APIs(FastAPI, Streamlit)**
 
 - 💬 Ask me about **Python, Sql, Statistics, ML, NLP & Deep learning, Transfer Learning, Coding stuff.**
-
+  
+-  🎓📚 MSc Data Science - AGC, Pune 
+  
 - 📫 How to reach me **dhiraj.bembade@gmail.com**
 
 <img align="right" alt="Coding GIF" src="https://github.com/DhirajBembade/GIF/raw/main/Coding.gif" width="360px"/>
