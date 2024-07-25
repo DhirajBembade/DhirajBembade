@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Sql, Statistics, ML, NLP & Deep learning, Transfer Learning, Coding stuff.**
   
--  🎓📚 MSc Data Science - AGC, Pune 
+-  🎓📚 MSc Data Science - SPPU, Pune 
   
 - 📫 How to reach me **dhiraj.bembade@gmail.com**
 
