@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning & exploring programming in **MLOps, LLMs, GenAI, Langchain-Langsmith, Transformers, BERT, AWS(Amazon Bedrock), VectorDB, Advance NLP(NER, Chatbot), and Databricks**
 
-- 🔭 I’m currently working on **Data Science, Machine Learning -NLP projects.**
+- 🔭 I’m currently working on **ADAS Technologies and Computer Vision Task** also worked on **Data Science, Machine Learning -NLP projects(Chatbot, T5, LLMS etc).**
 
 - 💬 Ask me about **Python, Sql, Statistics, ML, NLP & Deep learning, Transfer Learning, Coding stuff.**
 
