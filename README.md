@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajbembade&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajbembade" /> </p>
 
-- 🔭 I’m currently working on **ADAS Technologies 🚘  & Computer Vision Task**, experience in **Data Science, Machine Learning -NLP (Chatbot, T5, LLMs etc), Computer Vision(Yolo, VGG, ResNet, GANs LIMs), APIs(FastAPI, Streamlit) projects.**
+- 🔭 I’m currently working on **ADAS Technologies 🚘  & Computer Vision Task**, experience in **Data Science, Machine Learning -NLP (Chatbot, LLMs, SQL-Langchain), Computer Vision(Yolo, VGG, ResNet, GANs LIMs), APIs(FastAPI, Streamlit) projects.**
 
-- 🌱 Exploring programming in **MLOps, LLMs, GenAI, Langchain-Langsmith, Transformers, BERT, Huggingface, AWS(Amazon Bedrock), VectorDB, Advance NLP(NER, Chatbot), and Databricks**
+- 🌱 Exploring programming in **MLOps, LLMs, GenAI, Langchain-Langsmith, Transformers, BERT, Huggingface, AWS(Amazon Bedrock, AWS Fargate), VectorDB( CromaDB, FAISS, ASTRADB), Advance NLP(NER, Chatbot), and Databricks**
 
 - 💬 Ask me about **Python, Sql, Statistics, ML, NLP & Deep learning, Transfer Learning, Coding stuff.**
   
