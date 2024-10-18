@@ -8,8 +8,7 @@
  
 - **💼 Experience in Data Science, Machine Learning - NLP (Chatbot, LLMs, Rag-Langchain), Computer Vision (Yolo, VGG, ResNet, GANs, LIMs), APIs 🔗 (FastAPI, Streamlit) projects.**
 
-- **🌱 Diving deeper into MLOps, GenAI, Langchain-Langsmith, Transformers, Huggingface, DATASTAX, 
-AWS(Amazon Bedrock, AWS Fargate-VPC), VectorDB( ChromaDB, FAISS, ASTRADB), AzureOpenAI and Vertex.AI.**
+- **🌱 Diving deeper into MLOps, GenAI, LLMs, Lang-Chain-Smith-Serve-Graph, Transformers, Huggingface, DATASTAX, AWS(Amazon Bedrock, AWS Fargate-VPC), VectorDB( ChromaDB, FAISS, ASTRADB), AzureOpenAI and Vertex.AI.**
 
 - 💬💬 **Reach out for discussions on Python, SQL, Statistics, ML, NLP, Deep Learning, Transfer Learning, Reinforcement Learning, coding stuff 💻.**
   
