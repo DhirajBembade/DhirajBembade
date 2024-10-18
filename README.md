@@ -10,7 +10,7 @@
 
 - 🌱 Diving deeper into **MLOps, LLMs, GenAI, Rag, Langchain-Langsmith, Transformers, Huggingface, AWS(Amazon Bedrock, AWS Fargate), VectorDB( CromaDB, FAISS, ASTRADB), AzureOpenAI and Vertex.AI.**
 
-- 💬💬 **Reach out for discussions on Python, SQL, Statistics, ML, NLP, Deep Learning, Transfer & Reinforcement Learning, coding stuff 💻.**
+- 💬💬 **Reach out for discussions on Python, SQL, Statistics, ML, NLP, Deep Learning, Transfer Learning, Reinforcement Learning, coding stuff 💻.**
   
 -  🎓📚 MSc Data Science - SPPU, Pune 
   
