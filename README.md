@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Dhiraj Bembade</h1>
+<h1 align="center">Aloha 👋, I'm Dhiraj Bembade</h1>
 <h3 align="center">I'm Data Science & AI Enthusiastic</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajbembade&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajbembade" /> </p>
 
-- 🔭 I’m currently working on **ADAS Technologies 🚘  & Computer Vision Task**, experience in **Data Science, Machine Learning -NLP (Chatbot, LLMs, SQL-Langchain), Computer Vision(Yolo, VGG, ResNet, GANs LIMs), APIs(FastAPI, Streamlit) projects.**
+- 🔭 I’m currently working on **ADAS Technologies 🚘  & Computer Vision Task.**
+ 
+- **💼 Experience in Data Science, Machine Learning - NLP (Chatbot, LLMs, SQL-Langchain), Computer Vision (Yolo, VGG, ResNet, GANs, LIMs), APIs 🔗 (FastAPI, Streamlit) projects.**
 
-- 🌱 Exploring programming in **MLOps, LLMs, GenAI, Langchain-Langsmith, Transformers, BERT, Huggingface, AWS(Amazon Bedrock, AWS Fargate), VectorDB( CromaDB, FAISS, ASTRADB), Advance NLP(NER, Chatbot), and Databricks**
+- 🌱 Diving deeper into **MLOps, LLMs, GenAI, Rag, Langchain-Langsmith, Transformers, Huggingface, AWS(Amazon Bedrock, AWS Fargate), VectorDB( CromaDB, FAISS, ASTRADB), AzureOpenAI and Vertex.AI.**
 
-- 💬 Ask me about **Python, Sql, Statistics, ML, NLP & Deep learning, Transfer Learning, Coding stuff.**
+- 💬💬 **Reach out for discussions on Python 🐍, SQL 🛠️, Statistics, ML, NLP , Deep Learning, Transfer Learning, Reinforcement Learning, coding stuff 💻.**
   
 -  🎓📚 MSc Data Science - SPPU, Pune 
   
