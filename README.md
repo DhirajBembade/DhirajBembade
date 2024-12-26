@@ -5,7 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajbembade&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajbembade" /> </p>
 
 - 🔭 I’m currently working on **ADAS Technologies 🚘  & Computer Vision Task.**
- 
+
+- **📚👨🏻‍💻 Focusing on: Generative AI and Agentic AI frameworks.**
+
 - **💼 Experience in Data Science, Machine Learning - NLP (Chatbot, Rag-Langchain, LLMs), Computer Vision (Yolo, VGG, ResNet, GANs, LIMs), APIs 🔗 (FastAPI, Streamlit) projects.**
 
 - **🌱 Diving deeper into MLOps, GenAI, Lang-Chain-Smith-Serve-Graph, Transformers, Huggingface, DATASTAX, AWS(Amazon Bedrock, AWS Fargate-VPC), VectorDB( ChromaDB, FAISS, ASTRADB), AzureOpenAI and Vertex.AI.**
